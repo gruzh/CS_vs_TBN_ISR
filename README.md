@@ -3,7 +3,7 @@
 This repository contains the official code for the paper [Continuous surrogates versus threshold Boolean networks for modeling Arabidopsis ISR gene regulation]()
 
 Author: 
-[Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3</sup>, &nbsp;
+[Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3</sup> &nbsp;
 
 <sup>1</sup> Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Santiago, Chile. <br>
 <sup>2</sup> Millennium Nucleus for Social Data Science (SODAS), Santiago, Chile. <br>
