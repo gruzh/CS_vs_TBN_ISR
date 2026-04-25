@@ -16,6 +16,8 @@ Author:
     <span> Python 3 </span> 
 </div>
 
+<!---
+
 ## Citation
 If you find this code or paper useful, please use the following reference:
 ````{verbatim}
@@ -31,20 +33,4 @@ If you find this code or paper useful, please use the following reference:
   doi={10.1109/CISS64860.2025.10944722}
 }
 ````
-
-<!---
-
-
-
-## Usage
-
-
-## Citation
-If you find this code or paper useful, please use the following reference:
-```
-@article{
-    
-}
-```
-
 -->
